@@ -69,7 +69,7 @@ export default function AddBlog() {
         <div>
           <button
             onClick={handleAddBlog}
-            className="border border-green-400 p-4 bg-black text-white"
+            className="border border-blue-700 p-4 bg-black text-white"
           >
             Add Blog
           </button>
